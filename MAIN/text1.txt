@@ -1,2 +1,2 @@
-1) This is remote main.
+1) This is Fetch Command.
 
