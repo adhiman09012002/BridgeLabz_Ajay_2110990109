@@ -18,5 +18,5 @@ Topic Covered:
 
 6. Loops=>
 (1). While loop
-
+(2). For loop
 
